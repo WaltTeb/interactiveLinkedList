@@ -36,7 +36,7 @@ int main(){
         j+=2;
         
         sprintf(tempStr+h+1, "\0");
-        printf("tempstr = %s\n", tempStr);
+        //printf("tempstr = %s\n", tempStr);
         words[i] = tempStr;
         
         
